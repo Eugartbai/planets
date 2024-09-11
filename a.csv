@@ -1,0 +1,10 @@
+date,type,len_hours,num_registered,num_attended,trainer,cancelled,
+29 Apr,OA,1.5,1.5,15,JM,N,
+3 Mar,OA,60,19,25,PG,N,
+3 Jul,OA,1,25,20,PG,N,
+4 Jan,OA,1,26,17,JM,N,
+29 Mar,RDM,1,27,24,JM,N,
+26 Aug,OA,15,28,20,JM,N,
+30 Jul,OA,1,28,20,JM,N,
+15 Apr,RDM,1,32,20,PG,N,
+5 May,OA,90 min,36,21,PG,N
